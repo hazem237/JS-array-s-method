@@ -1,0 +1,9 @@
+Hey 
+welcome to the JS Task , the task asked for me to implement Array's methods 
+
+arr.filter ()
+arr.map ()
+arr.find()
+arr.reduce()
+
+There is a special brunch for each method, in the name of the method itself
