@@ -16,3 +16,5 @@ function double_value(val) {
 //The implemntation of the proccess
 let arr=[1,2,9];
 myMap(arr, double_value);
+
+module.exports=myMap;
