@@ -21,3 +21,5 @@ function falsy_remover(val) {
 //implementation for the process 
 let arr = [1, 0, undefined, 4, 5, "", null];
 myFilter(arr, falsy_remover);
+
+module.exports=myFilter;
