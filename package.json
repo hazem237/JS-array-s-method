@@ -1,0 +1,23 @@
+{
+  "name": "js-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "find.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazem237/JS-array-s-method.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazem237/JS-array-s-method/issues"
+  },
+  "homepage": "https://github.com/hazem237/JS-array-s-method#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}

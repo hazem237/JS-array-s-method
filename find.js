@@ -27,3 +27,5 @@ let users = [
 let user = myFind(users, finder);
 if (user)
     console.log(user.name); //Hazem
+
+    module.exports=myFind;
